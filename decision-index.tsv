@@ -6763,7 +6763,7 @@ reference	path
 2 N.M. 474	decisions/supreme-court-of-new-mexico/1883/2-N-M-474.md
 2 N.M. 480	decisions/supreme-court-of-new-mexico/1883/2-N-M-480.md
 2 N.M. 49	decisions/supreme-court-of-new-mexico/1881/2-N-M-49.md
-2 N.M. 63	decisions/supreme-court-of-new-mexico/1881/2-N-M-49.md
+2 N.M. 63	decisions/supreme-court-of-new-mexico/1881/2-N-M-63.md
 2 N.M. 7	decisions/supreme-court-of-new-mexico/1880/2-N-M-7.md
 2 N.M. 70	decisions/supreme-court-of-new-mexico/1881/2-N-M-70.md
 2 N.M. 73	decisions/supreme-court-of-new-mexico/1881/2-N-M-73.md
@@ -7482,6 +7482,27 @@ reference	path
 2012-NMSC-013	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-013.md
 2012-NMSC-014	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-014.md
 2012-NMSC-015	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-015.md
+2012-NMSC-016	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-016.md
+2012-NMSC-017	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-017.md
+2012-NMSC-018	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-018.md
+2012-NMSC-019	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-019.md
+2012-NMSC-020	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-020.md
+2012-NMSC-021	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-021.md
+2012-NMSC-022	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-022.md
+2012-NMSC-023	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-023.md
+2012-NMSC-024	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-024.md
+2012-NMSC-025	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-025.md
+2012-NMSC-026	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-026.md
+2012-NMSC-027	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-027.md
+2012-NMSC-028	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-028.md
+2012-NMSC-029	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-029.md
+2012-NMSC-030	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-030.md
+2012-NMSC-031	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-031.md
+2012-NMSC-032	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-032.md
+2012-NMSC-033	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-033.md
+2012-NMSC-034	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-034.md
+2012-NMSC-035	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-035.md
+2012-NMSC-036	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-036.md
 2012-NMSC-037	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-037.md
 2012-NMSC-038	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-038.md
 2012-NMSC-039	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-039.md
@@ -11911,6 +11932,7 @@ reference	path
 30,425	decisions/supreme-court-of-new-mexico/2008/144-N-M-424.md
 30,443, 30,454	decisions/supreme-court-of-new-mexico/2009/146-N-M-319.md
 30,453	decisions/supreme-court-of-new-mexico/2009/146-N-M-88.md
+30,470	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-036.md
 30,473	decisions/supreme-court-of-new-mexico/2008/144-N-M-117.md
 30,474	decisions/supreme-court-of-new-mexico/2008/144-N-M-772.md
 30,486	decisions/supreme-court-of-new-mexico/2009/146-N-M-251.md
@@ -12553,6 +12575,7 @@ reference	path
 32,067	decisions/supreme-court-of-new-mexico/2011/149-N-M-435.md
 32,069	decisions/supreme-court-of-new-mexico/2011/149-N-M-370.md
 32,080	decisions/supreme-court-of-new-mexico/2011/150-N-M-268.md
+32,120	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-030.md
 32,126	decisions/supreme-court-of-new-mexico/2011/150-N-M-1.md
 32,130	decisions/supreme-court-of-new-mexico/2011/150-N-M-548.md
 32,131	decisions/supreme-court-of-new-mexico/2011/150-N-M-650.md
@@ -12569,6 +12592,7 @@ reference	path
 32,263	decisions/supreme-court-of-new-mexico/2011/149-N-M-729.md
 32,279	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-020.md
 32,283	decisions/supreme-court-of-new-mexico/2011/150-N-M-80.md
+32,291	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-016.md
 32,311	decisions/supreme-court-of-new-mexico/2011/150-N-M-164.md
 32,337	decisions/supreme-court-of-new-mexico/2010/148-N-M-246.md
 32,340	decisions/supreme-court-of-new-mexico/2011/150-N-M-398.md
@@ -12580,30 +12604,47 @@ reference	path
 32,400	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-011.md
 32,411	decisions/supreme-court-of-new-mexico/2011/149-N-M-620.md
 32,422	decisions/supreme-court-of-new-mexico/2011/149-N-M-721.md
+32,430; Docket No. 32,632	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-029.md
 32,436	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-004.md
 32,447	decisions/supreme-court-of-new-mexico/2011/150-N-M-258.md
 32,475, 32,480	decisions/supreme-court-of-new-mexico/2011/150-N-M-174.md
 32,486, 32,489	decisions/supreme-court-of-new-mexico/2011/150-N-M-428.md
+32,510	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-018.md
+32,524	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-026.md
 32,541	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-037.md
 32,570	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-007.md
+32,589	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-024.md
 32,594	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-010.md
 32,597	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-038.md
 32,624	decisions/supreme-court-of-new-mexico/2012/2013-NMSC-009.md
 32,677	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-003.md
+32,695	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-022.md
 32,704	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-039.md
+32,707	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-034.md
 32,713; Docket No. 32,717	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-037.md
+32,756	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-020.md
 32,776	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-009.md
+32,789	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-019.md
+32,800	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-023.md
 32,806, 32,811	decisions/supreme-court-of-new-mexico/2011/149-N-M-207.md
+32,828	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-033.md
 32,844	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-021.md
 32,860	decisions/supreme-court-of-new-mexico/2014/2014-NMSC-011.md
+32,885	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-031.md
 32,898	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-003.md
 32,905	decisions/supreme-court-of-new-mexico/2011/150-N-M-132.md
 32,915	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-015.md
 32,917	decisions/supreme-court-of-new-mexico/2011/2012-NMSC-002.md
 32,929	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-034.md
+32,937	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-028.md
 32,938	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-040.md
+32,939	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-032.md
+32,942	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-025.md
 32,943	decisions/supreme-court-of-new-mexico/2012/2013-NMSC-001.md
+32,944	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-017.md
 32,968	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-017.md
+32,976	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-035.md
+32,985; Docket No. 32,987	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-021.md
 320 P.2d 1016	decisions/supreme-court-of-new-mexico/1958/63-N-M-407.md
 320 P.2d 1017	decisions/supreme-court-of-new-mexico/1958/63-N-M-409.md
 320 P.2d 1020	decisions/supreme-court-of-new-mexico/1958/63-N-M-414.md
@@ -12927,6 +12968,7 @@ reference	path
 33,025; Docket No. 33,054	decisions/supreme-court-of-new-mexico/2014/2014-NMSC-008.md
 33,028	decisions/supreme-court-of-new-mexico/2011/2011-NMSC-045.md
 33,029	decisions/supreme-court-of-new-mexico/2011/150-N-M-703.md
+33,052	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-027.md
 33,057	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-036.md
 33,069	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-012.md
 33,074; Docket No. 33,091; Docket No. 33,102; Docket No. 33,116	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-005.md
@@ -14455,6 +14497,7 @@ reference	path
 3727	decisions/supreme-court-of-new-mexico/1932/36-N-M-211.md
 3728	decisions/supreme-court-of-new-mexico/1932/37-N-M-66.md
 3729	decisions/supreme-court-of-new-mexico/1933/37-N-M-246.md
+373	decisions/supreme-court-of-new-mexico/1891/6-N-M-72.md
 373	decisions/supreme-court-of-new-mexico/1891/6-N-M-75.md
 373 P.2d 318	decisions/supreme-court-of-new-mexico/1962/70-N-M-283.md
 373 P.2d 533	decisions/supreme-court-of-new-mexico/1962/70-N-M-289.md
@@ -21670,7 +21713,7 @@ reference	path
 6 N.M. 635	decisions/supreme-court-of-new-mexico/1892/6-N-M-635.md
 6 N.M. 643	decisions/supreme-court-of-new-mexico/1892/6-N-M-643.md
 6 N.M. 682	decisions/supreme-court-of-new-mexico/1892/6-N-M-682.md
-6 N.M. 72	decisions/supreme-court-of-new-mexico/1891/6-N-M-75.md
+6 N.M. 72	decisions/supreme-court-of-new-mexico/1891/6-N-M-72.md
 6 N.M. 75	decisions/supreme-court-of-new-mexico/1891/6-N-M-75.md
 6 N.M. 80	decisions/supreme-court-of-new-mexico/1891/6-N-M-80.md
 6 N.M. 87	decisions/supreme-court-of-new-mexico/1891/6-N-M-87.md
@@ -32232,7 +32275,6 @@ reference	path
 9989	decisions/supreme-court-of-new-mexico/1974/87-N-M-219.md
 999	decisions/supreme-court-of-new-mexico/1903/12-N-M-62.md
 9999	decisions/supreme-court-of-new-mexico/1974/86-N-M-281.md
-: NO. S-1-SC-34873	decisions/supreme-court-of-new-mexico/2016/2016-NMSC-018.md
 Disciplinary Proceeding No. 15229	decisions/supreme-court-of-new-mexico/1984/100-N-M-685--cap-1588660.md
 Disciplinary Proceeding No. 15249	decisions/supreme-court-of-new-mexico/1984/100-N-M-685.md
 Disciplinary Proceeding No. 15294	decisions/supreme-court-of-new-mexico/1984/100-N-M-749.md
@@ -32246,6 +32288,7 @@ NO. 2927	decisions/supreme-court-of-new-mexico/1925/31-N-M-180.md
 NO. 9864	decisions/supreme-court-of-new-mexico/1973/85-N-M-735.md
 NO. S-1-SC-34372; NO. S-1-SC-34386	decisions/supreme-court-of-new-mexico/2019/447-P-3d-1086.md
 NO. S-1-SC-34798	decisions/supreme-court-of-new-mexico/2018/412-P-3d-79.md
+NO. S-1-SC-34873	decisions/supreme-court-of-new-mexico/2016/2016-NMSC-018.md
 NO. S-1-SC-34929	decisions/supreme-court-of-new-mexico/2018/416-P-3d-264.md
 NO. S-1-SC-35104	decisions/supreme-court-of-new-mexico/2018/412-P-3d-1089.md
 NO. S-1-SC-35116	decisions/supreme-court-of-new-mexico/2018/410-P-3d-186.md
@@ -39337,6 +39380,7 @@ cap-3284452	decisions/supreme-court-of-new-mexico/1882/2-N-M-271.md
 cap-3284501	decisions/supreme-court-of-new-mexico/1881/2-N-M-147.md
 cap-3284517	decisions/supreme-court-of-new-mexico/1882/2-N-M-194.md
 cap-3284548	decisions/supreme-court-of-new-mexico/1881/2-N-M-114.md
+cap-3284581	decisions/supreme-court-of-new-mexico/1881/2-N-M-63.md
 cap-3284623	decisions/supreme-court-of-new-mexico/1881/2-N-M-161.md
 cap-3284648	decisions/supreme-court-of-new-mexico/1880/2-N-M-7.md
 cap-3284668	decisions/supreme-court-of-new-mexico/1882/2-N-M-223.md
@@ -39671,9 +39715,30 @@ cap-4188256	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-008.md
 cap-4188293	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-014.md
 cap-4188357	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-015.md
 cap-4188422	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-006.md
+cap-4188470	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-024.md
+cap-4188568	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-030.md
 cap-4188653	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-004.md
+cap-4188678	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-035.md
 cap-4188751	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-003.md
+cap-4188786	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-020.md
 cap-4188874	decisions/supreme-court-of-new-mexico/2011/2012-NMSC-002.md
+cap-4188914	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-019.md
+cap-4188937	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-016.md
+cap-4188995	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-029.md
+cap-4189031	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-032.md
+cap-4189242	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-025.md
+cap-4189276	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-036.md
+cap-4189303	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-034.md
+cap-4189330	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-033.md
+cap-4189500	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-018.md
+cap-4189683	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-021.md
+cap-4189768	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-023.md
+cap-4190097	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-031.md
+cap-4190278	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-027.md
+cap-4190294	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-022.md
+cap-4190395	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-017.md
+cap-4190412	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-026.md
+cap-4190440	decisions/supreme-court-of-new-mexico/2012/2012-NMSC-028.md
 cap-4190651	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-010.md
 cap-4190787	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-004.md
 cap-4190808	decisions/supreme-court-of-new-mexico/2013/2013-NMSC-008.md
@@ -40022,6 +40087,7 @@ cap-4651393	decisions/supreme-court-of-new-mexico/1891/6-N-M-222.md
 cap-4651417	decisions/supreme-court-of-new-mexico/1892/6-N-M-420.md
 cap-4651441	decisions/supreme-court-of-new-mexico/1892/6-N-M-573.md
 cap-4651470	decisions/supreme-court-of-new-mexico/1892/6-N-M-618.md
+cap-4651501	decisions/supreme-court-of-new-mexico/1891/6-N-M-72.md
 cap-4651540	decisions/supreme-court-of-new-mexico/1891/6-N-M-194.md
 cap-4651569	decisions/supreme-court-of-new-mexico/1892/6-N-M-531.md
 cap-4651598	decisions/supreme-court-of-new-mexico/1891/6-N-M-75.md
@@ -41534,6 +41600,7 @@ cap-5346390	decisions/supreme-court-of-new-mexico/1962/71-N-M-112.md
 cap-5346403	decisions/supreme-court-of-new-mexico/1958/64-N-M-21.md
 cap-5346436	decisions/supreme-court-of-new-mexico/1962/71-N-M-175.md
 cap-5346437	decisions/supreme-court-of-new-mexico/1958/64-N-M-86.md
+cap-5346468	decisions/supreme-court-of-new-mexico/1962/71-N-M-112.md
 cap-5346488	decisions/supreme-court-of-new-mexico/1958/64-N-M-275.md
 cap-5346520	decisions/supreme-court-of-new-mexico/1962/71-N-M-124.md
 cap-5346523	decisions/supreme-court-of-new-mexico/1958/64-N-M-372.md
