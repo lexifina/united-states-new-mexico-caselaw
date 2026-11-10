@@ -1,0 +1,4 @@
+path	relation	target	note
+decisions/supreme-court-of-new-mexico/1888/5-N-M-34.md	same-decision-as	decisions/supreme-court-of-new-mexico/1888/4-N-M-318.md	the same decision in another reporter (5 N.M. 34 and 4 N.M. 318), same day and text (similarity 0.98); both kept
+decisions/supreme-court-of-new-mexico/1889/5-N-M-80.md	same-decision-as	decisions/supreme-court-of-new-mexico/1889/4-N-M-358.md	the same decision in another reporter (5 N.M. 80 and 4 N.M. 358), same day and text (similarity 0.99); both kept
+decisions/supreme-court-of-new-mexico/1889/5-N-M-98.md	same-decision-as	decisions/supreme-court-of-new-mexico/1889/4-N-M-365.md	the same decision in another reporter (5 N.M. 98 and 4 N.M. 365), same day and text (similarity 0.99); both kept
